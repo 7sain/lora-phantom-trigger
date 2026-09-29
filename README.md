@@ -17,8 +17,8 @@ Developed in Visual Studio Code using the Arduino framework and PlatformIO, this
 ## 🛠️ Hardware Requirements
 * **2x** Heltec ESP32-S3 LoRa V3/V4 (One Remote Unit, One Camera Unit)
 * **1x** PC817 Optocoupler
-* **1x** 220Ω - 330Ω Resistor
-* **4x** LEDs (Connection Status & Low Battery warnings for both boards)
+* **5x** 220Ω - 330Ω Resistor
+* **5x** LEDs (Connection Status & Low Battery warnings for both boards)
 * **1x** Push Button
 * High-Speed Camera requiring a dry-contact trigger
 
